@@ -14,7 +14,7 @@ In this project, I create a movie recommendation system using jupyter, python an
 You can find the code for this project here.
 
 File overview:
-- `Movie Recommendation System.ipynb` - a jupyter notebook that contains all of the code.
+- `Movie_Recommendation_System.ipynb` - a jupyter notebook that contains all of the code.
 
 
 
