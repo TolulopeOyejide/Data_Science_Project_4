@@ -19,7 +19,7 @@ File overview:
 
 
 ## Data
-- I download all of the data during the project, from [here](https://files.grouplens.org/datasets/)
+- I download all of the data during the project, from [here](https://files.grouplens.org/datasets/rating-disposition-2023/)
 
 
 ## Demo
