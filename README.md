@@ -19,7 +19,7 @@ File overview:
 
 
 ## Data
-- I download all of the data during the project, from [here](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGp5Nk5sQUN3RXBLUE5COFRVSTJFalNEaHduUXxBQ3Jtc0trOTNQOGtZdzhldEEtSXpJOUNrUm05T0Q2WUZOd0djZ1JZQmUzX1J2VlllRzQ4U2FGOXd0LXU4dld3TDlXQk9qRFVnTlEtdjlpOVZEOWJQNjVaUFdvV2g5SEpVNGVvaVUzSnRENDJFY3haNDBUNTltZw&q=https%3A%2F%2Ffiles.grouplens.org%2Fdatasets%2Fmovielens%2Fml-25m.zip&v=eyEabQRBMQA)
+- I download all of the data during the project, from [here](https://files.grouplens.org/datasets/)
 
 
 ## Demo
